@@ -21,6 +21,7 @@ h1, h2, h3, h4, p {
     padding: 5px 10px;
     border-radius: 5px;
     margin: 5px 0 10px 0;
+    color: #509eb2;
 }
 
 #bday-date {
@@ -28,6 +29,7 @@ h1, h2, h3, h4, p {
     background: #f2e946;
     padding: 5px 10px;
     border-radius: 5px;
+    color: #509eb2;
 }
 
 #header {
